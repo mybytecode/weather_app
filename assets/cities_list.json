@@ -1,0 +1,50 @@
+[
+  {
+    "city_name" : "Pune",
+    "lat" : 18.5204,
+    "long" : 73.8567,
+    "img_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shaniwarwada_gate.JPG/1200px-Shaniwarwada_gate.JPG"
+  },
+  {
+    "city_name" : "Mumbai",
+    "lat" : 19.0760,
+    "long" : 72.8777,
+    "img_url" : "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/Historical_Gateway_Of_India.jpeg?PWhBumESuAsPN4x61wUuCfLhuATdrUc2"
+  },
+  {
+    "city_name" : "Delhi",
+    "lat" : 28.7041,
+    "long" : 77.1025,
+    "img_url" : "https://cdn.britannica.com/62/156662-050-5D93F2F9/India-War-Memorial-arch-New-Delhi.jpg"
+  },
+  {
+    "city_name" : "Bangalore",
+    "lat" : 12.9716,
+    "long" : 77.5946,
+    "img_url" : "https://upload.wikimedia.org/wikipedia/commons/2/23/UB_City_at_night_.jpg"
+  },
+  {
+    "city_name" : "Hyderabad",
+    "lat" : 17.3850,
+    "long" : 78.4867,
+    "img_url" : "https://cdn.britannica.com/77/22877-050-9EFB35D4/Charminar-city-Hyderabad-India-Telangana.jpg"
+  },
+  {
+    "city_name" : "Noida",
+    "lat" : 28.5355,
+    "long" : 77.3910,
+    "img_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sector_78_Noida_with_Moonlight.jpg/266px-Sector_78_Noida_with_Moonlight.jpg"
+  },
+  {
+    "city_name" : "Kochi",
+    "lat" : 9.9312,
+    "long" : 76.2673,
+    "img_url" : "https://img.manoramaonline.com/content/dam/mm/en/travel/travel-news/images/2019/10/22/kochi-birds-eye-view.jpg"
+  },
+  {
+    "city_name" : "Surat",
+    "lat" : 21.1702,
+    "long" : 72.8311,
+    "img_url" : "https://upload.wikimedia.org/wikipedia/commons/7/7a/International_Business_Center%2C_Piplod%2C_Surat..jpg"
+  }
+]
